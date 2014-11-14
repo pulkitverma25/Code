@@ -1,0 +1,15 @@
+CC=gcc
+CFLAGS=-c -g
+LDFLAGS=
+SOURCES=linkedList.c minHeap.c stack.c readAdjacency.c midsem.c
+OBJECTS=$(SOURCES:.c=.o)
+EXECUTABLE=midsem
+
+all: $(SOURCES) $(EXECUTABLE)
+	
+$(EXECUTABLE): $(OBJECTS) 
+	$(CC) $(LDFLAGS) $(OBJECTS) -o $@
+
+.cpp.o:
+	$(CC) $(CFLAGS) $< -o $@
+
