@@ -1,0 +1,20 @@
+/**********************************************************
+ * @author  Pulkit Verma
+ * @email   technopreneur[dot]pulkit[at]gmail[dot]com
+ **********************************************************/
+ 
+#include <stdio.h>
+
+int main()
+{
+	int c;
+
+	c=getchar();
+	while(c != EOF)
+	{
+		putchar(c);
+		c=getchar();
+	}
+
+	return 0;
+}

@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+void Print(int );
+
+int main()
+{
+	int num;
+
+	printf("Enter the number: ");
+	scanf("%d",&num);
+	Print(num);
+
+	return 0;
+}
+
+void Print (int n)
+{
+	if (n==0)
+		return;
+	else
+	{
+		printf("%d\n",n);
+		return Print(n-1);
+	}
+}
