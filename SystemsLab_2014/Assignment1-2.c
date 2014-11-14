@@ -1,3 +1,9 @@
+/**********************************************************
+ * @author  Pulkit Verma
+ * @email   technopreneur[dot]pulkit[at]gmail[dot]com
+ * @year	2014
+ **********************************************************/
+
 #include <sys/wait.h>
 #include <stdlib.h> 
 #include <unistd.h> 

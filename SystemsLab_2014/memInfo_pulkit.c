@@ -1,3 +1,9 @@
+/**********************************************************
+ * @author  Pulkit Verma
+ * @email   technopreneur[dot]pulkit[at]gmail[dot]com
+ * @year	2014
+ **********************************************************/
+
 #include <linux/kernel.h>
 #include <linux/unistd.h>
 #include <linux/syscalls.h>

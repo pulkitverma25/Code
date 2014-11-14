@@ -1,3 +1,9 @@
+/**********************************************************
+ * @author  Pulkit Verma
+ * @email   technopreneur[dot]pulkit[at]gmail[dot]com
+ * @year	2014
+ **********************************************************/
+
 #ifndef CUSTOM_COMMANDS_H_
 #define CUSTOM_COMMANDS_H_
 

@@ -1,3 +1,9 @@
+/**********************************************************
+ * @author  Pulkit Verma
+ * @email   technopreneur[dot]pulkit[at]gmail[dot]com
+ * @year	2014
+ **********************************************************/
+
 #ifndef _MEMINFO_PULKIT_
 #define _MEMINFO_PULKIT_
 

@@ -1,3 +1,9 @@
+/**********************************************************
+ * @author  Pulkit Verma
+ * @email   technopreneur[dot]pulkit[at]gmail[dot]com
+ * @year	2014
+ **********************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
