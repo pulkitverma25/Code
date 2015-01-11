@@ -61,6 +61,7 @@ So the order of delivery of burgers is, 4 2 5 1 3
 #include <vector>
 #include <iostream>
 #include <algorithm>
+
 using namespace std;
 typedef unsigned long long int ull;
 
